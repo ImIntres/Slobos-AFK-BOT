@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "saw1tsmp.falixsrv.me",
-    "port": 28956,
-    "version": "26.2"
+    "ip": "SAWIT.aternos.me",
+    "port": 61460,
+    "version": "1.26.21.1"
   },
   "position": {
     "enabled": true,
